@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hour14Menu.unity
+    guid: b5216124d74934a42802b05b06d3df3a
+  - enabled: 1
+    path: Assets/Scenes/Hour14Game.unity
+    guid: 478149c3d45070d4fb57747d00ae6e52
   m_configObjects: {}
